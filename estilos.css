@@ -1,0 +1,66 @@
+body {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+#nr{
+    text-align: center;
+    color: black;
+}
+
+body#hambu{
+    background-image:url("Hamburguesa.jpg");
+    background-size: 102%;
+}
+
+div #iz{
+    width: 100%;
+    height: auto;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 15px;
+}
+
+div #iz1{
+    width: 100%;
+    height: auto;
+    background-color:#b91817;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: white;
+    border: 5px solid #981914;
+}
+
+div #ce{
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    background-color: white;
+    bottom: auto;
+    right: auto;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 15px; 
+}
+
+div #ce1{
+    width: 100%;
+    height: auto;
+    margin-top: 20px;
+    background-color: green;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+div #der{
+    width: 100%;
+    height: auto;
+    background-color: green;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
